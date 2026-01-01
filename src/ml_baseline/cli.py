@@ -20,7 +20,7 @@ def train(
 if __name__ == "__main__":
     root = Path(".")
     cfg = TrainCfg(
-        features_path=Path("data/features/train.parquet"),
+        features_path=Path("data/processed/features"),
         target="is_high_value"
     )
     run_train(cfg, root=root)
