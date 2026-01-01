@@ -1,12 +1,11 @@
-/venv
 /src
 /reports
 /tests
 /runs
 /models
+
+
 /data
 
-
-
-
+/.venv
 
