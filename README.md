@@ -15,6 +15,7 @@ This project is part of a **milestone in the AI Professionals Bootcamp**. It foc
   
 > **Note:** All commands assume you are in the project root directory (`week3-ml-baseline-system`) and the `.venv` is active.
 
-Open Shipping_Crisis_Template(1).ipynb
+Open notebooks/best_is_delayed_model.pkl
+Open
 
 > **Note:** Before running the cells, make sure to select the kernel corresponding to your .venv virtual environment. This ensures all dependencies are available.
