@@ -12,6 +12,16 @@ This project is part of a **milestone in the AI Professionals Bootcamp**. It foc
 - Git installed  
 - (Recommended) Virtual environment support
 - uv
+
+# Setup 
+# Windows PowerShell
+python -m venv .venv
+# PowerShell
+& .\.venv\Scripts\Activate.ps1
+
+#requirments
+-pip install -r requirements.txt
+
   
 > **Note:** All commands assume you are in the project root directory (`week3-ml-baseline-system`) and the `.venv` is active.
 
