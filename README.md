@@ -19,7 +19,10 @@ python -m venv .venv
 
 & .\.venv\Scripts\Activate.ps1
 
-#requirments
+
+---
+# requirement 
+
 -pip install -r requirements.txt
 
   
