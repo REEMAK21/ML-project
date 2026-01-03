@@ -35150,3 +35150,14 @@ The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Us
                        warm_start=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001F6C3E59300>)
 2026-01-01 21:21:12,370:INFO:Checking exceptions
 2026-01-01 21:21:12,370:INFO:Preloading libraries
+2026-01-03 06:34:56,028:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-03 06:34:56,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-03 06:34:56,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-03 06:34:56,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-03 06:52:29,438:WARNING:c:\Users\96653\Desktop\bootcamp\week3-ml-baseline-system\.venv\Lib\site-packages\tqdm\auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+
